@@ -1,0 +1,193 @@
+body{
+    background-color: #B0BAAB;
+    height: 2190px;
+}
+.maindiv{
+    position: relative;
+}
+#appimg{
+    position: absolute;
+    left: 750px;
+    top: 30px;
+}
+#headm{
+    position: absolute;
+    left: 757px;
+    top: 205px;
+}
+#para{
+    position: absolute;
+    left: 657px;
+    top: 285px;
+   width: 420px; 
+}
+#para1{
+    position: absolute;
+    left: 650px;
+    top: 305px;
+   width: 520px; 
+}
+#para2{
+    position: absolute;
+    left: 857px;
+    top: 325px;
+   width: 420px; 
+}
+#butt{
+    background-color: gray;
+    position: absolute;
+    color: white;
+    left: 755px;
+    top: 375px;
+   width: 200px; 
+   height: 50px;
+   padding-left: 30px;
+}
+#icon{
+    position: absolute;
+    color: white;
+    left: 775px;
+    top: 368px;
+   width: 200px; 
+   height: 50px;
+}
+#para3{
+    position: absolute;
+    left: 700px;
+    top: 425px;
+   width: 520px; 
+}
+#headm3{
+    position: absolute;
+    left: 820px;
+    top: 485px;
+   width: 520px; 
+}
+#video{
+    position: absolute;
+    left: 610px;
+    top: 585px;
+   width: 500px; 
+}
+.list{
+    position: absolute;
+    left: 610px;
+    top: 930px;
+   width: 500px; 
+}
+.gameimg{
+    position: absolute;
+    left: 650px;
+    top: 1160px;
+   width: 100px; 
+}
+.gameimg1{
+    position: absolute;
+    left: 760px;
+    top: 1160px;
+   width: 100px; 
+}
+.gameimg2{
+    position: absolute;
+    left: 870px;
+    top: 1160px;
+   width: 100px; 
+}
+.gameimg3{
+    position: absolute;
+    left: 980px;
+    top: 1160px;
+   width: 100px; 
+}
+.gameimg4{
+    position: absolute;
+    left: 1090px;
+    top: 1160px;
+   width: 100px; 
+}
+.list1{
+    list-style: none;
+    position: absolute;
+    left: 620px;
+    top: 1230px;
+   width: 700px; 
+}
+.butt1{
+    position: absolute;
+    
+    left: 640px;
+    top: 1450px;
+   width: 100px;
+   padding-right: 500px; 
+   padding-bottom: 80px;
+   background-color: #565145;
+}
+.para4{
+    position: absolute;
+    left: 660px;
+    top: 1470px;
+   width: 500px;
+}
+.butt2{
+    position: absolute;
+    left: 640px;
+    top: 1590px;
+   width: 510px;
+   background-color: #007039;
+   height: 40px;
+   font-size: 20px;
+}
+.imgs{
+    position: absolute;
+    left: 660px;
+    top: 1660px;
+   width: 150px;
+}
+.imgs1{
+    position: absolute;
+    left: 660px;
+    top: 1760px;
+   width: 150px;
+}
+.imgs2{
+    position: absolute;
+    left: 660px;
+    top: 1860px;
+   width: 150px;
+}
+.imgs3{
+    position: absolute;
+    left: 660px;
+    top: 1960px;
+   width: 150px;
+}
+.text{
+    position: absolute;
+    left: 830px;
+    top: 1660px;
+   width: 250px;
+}
+.text1{
+    position: absolute;
+    left: 830px;
+    top: 1760px;
+   width: 250px;
+}
+.text2{
+    position: absolute;
+    left: 830px;
+    top: 1860px;
+   width: 250px;
+}
+.text3{
+    position: absolute;
+    left: 830px;
+    top: 1960px;
+   width: 250px;
+}
+.text4{
+    position: absolute;
+    left: 730px;
+    top: 2080px;
+   width: 450px;
+}
